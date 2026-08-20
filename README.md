@@ -10,6 +10,3 @@ This repository contains a two-page infographic created in Canva that explores t
 ## Files Included
 * 1.jpg - Page 1: Impact to Society
 * 2.jpg - Page 2: Course Enrollment Comparison Chart
-Sent 14m ago
-Compose
-Write to Clash Clans
